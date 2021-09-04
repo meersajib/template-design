@@ -199,3 +199,43 @@ blockquote > h2 {
   text-align: center;
   border-radius: 50%;
 }
+
+.analysis {
+  padding: 60px 0;
+}
+
+.analysis-text h1 {
+  font-size: 3.714rem;
+  color: #313335;
+}
+.analysis-text h5 {
+  margin: 20px 0;
+}
+.dollar {
+  color: #c6b477;
+  font-size: 40px;
+  margin-left: 10px;
+  font-weight: 300;
+}
+.month {
+  color: #808080;
+  font-size: 14px;
+}
+.analysis-text button {
+  padding: 1.3em 2em;
+  width: 250px;
+  background-color: #c6b477;
+  color: #fff;
+  text-transform: uppercase;
+  border: none;
+  font-size: 16px;
+  box-shadow: inset 0 0 0 0 #fff;
+  transition: 0.5s ease-in-out;
+  outline: none;
+}
+.analysis-text button:hover {
+  box-shadow: inset 250px 0 0 0 #fff;
+  border: 2px solid #c6b477;
+  color: #c6b477;
+  cursor: pointer;
+}

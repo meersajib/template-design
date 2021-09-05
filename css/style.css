@@ -411,3 +411,12 @@ blockquote > h2 {
   color: #c6b477;
   cursor: pointer;
 }
+/* brand-section css  */
+.brand-section {
+  padding: 30px 0;
+  background: #c6b477;
+}
+/* package  plan css*/
+.package-plan {
+  background: #f2f0e8;
+}

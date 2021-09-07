@@ -706,3 +706,18 @@ blockquote {
 .contact-info > ul > li > a:hover {
   color: #808080;
 }
+
+/* footer-section css  */
+.footer-section {
+  padding: 60px 0;
+  background: #39363d;
+}
+.footer-section ul {
+  padding: 0;
+}
+.footer-text li > a {
+  color: #9d9c99;
+}
+.footer-text li > a:hover {
+  color: #c6b477;
+}

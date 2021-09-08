@@ -721,3 +721,23 @@ blockquote {
 .footer-text li > a:hover {
   color: #c6b477;
 }
+.footer-about p {
+  color: #9d9c99;
+}
+.footer-social i {
+  background: #c6b477;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  color: #fff;
+  text-align: center;
+  line-height: 30px;
+  cursor: pointer;
+  margin-right: 8px;
+  transition: 0.3s ease-in-out;
+}
+.footer-social i:hover {
+  background: #39363d;
+  color: #fff;
+  border: 2px solid #c6b477;
+}
